@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mo4pzQaWwqc=",
+  "success": true,
+  "projectFilePath": "E:\\Projekty\\VS\\JiPP\\Lab5\\Lab5\\Lab5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breku\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
